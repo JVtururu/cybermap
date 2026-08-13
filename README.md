@@ -6,3 +6,15 @@ Site interativo com a planta baixa da escola, mostrando as salas e estações do
 - `frontend/` — site que roda nos tablets (mapa clicável)
 - `backend/` — servidor Node.js + banco de dados (versão com admin)
 - `backend-admin/` — painel para editar as informações das salas
+
+## Integrantes
+- João Victor
+- Sérgio Emílio
+- Luiza Rodrigues
+- Rafael
+- Charlie
+- Thomas Edson
+- Karoline
+- João Lucas
+- Luiz Daniel
+- Robert
