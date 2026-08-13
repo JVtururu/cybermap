@@ -1,0 +1,12 @@
+# Dependências instaladas pelo npm (recriadas com "npm install")
+node_modules/
+
+# Banco de dados local (não deve ser versionado)
+*.db
+
+# Variáveis de ambiente / segredos, se um dia usarem
+.env
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
