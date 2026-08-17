@@ -20,8 +20,10 @@ async function carregarMapa() {
 
 function mostrarInfo(sala) {
   document.getElementById('painel-titulo').textContent = sala.nome;
-  document.getElementById('painel-estacao').textContent = sala.estacao;
-  document.getElementById('painel-resumo').textContent = sala.resumo;
+  document.getElementById('painel-estacao1').textContent = sala.estacao1;
+  document.getElementById('painel-resumo1').textContent = sala.resumo1;
+  document.getElementById('painel-estacao2').textContent = sala.estacao2;
+  document.getElementById('painel-resumo2').textContent = sala.resumo2;
   document.getElementById('painel-info').classList.remove('escondido');
 }
 
