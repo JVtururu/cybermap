@@ -5,7 +5,13 @@
     "estacao1": "A Robótica do SESI",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+
+    "nome2": "",
+    "estacao3": "",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
     "id": "sala-2",
@@ -13,7 +19,13 @@
     "estacao1": "Iniciação Científica",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+
+    "nome2": "",
+    "estacao3": "",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
     "id": "sala-3",
@@ -21,7 +33,13 @@
     "estacao1": "Ondas que Transformam",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "",
+    "estacao3": "",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
     "id": "sala-4",
@@ -29,7 +47,13 @@
     "estacao1": "Projeto ORION",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "",
+    "estacao3": "",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
     "id": "sala-5",
@@ -37,7 +61,13 @@
     "estacao1": "Mosaico Brasileiro",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "",
+    "estacao3": "",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
     "id": "sala-6",
@@ -45,79 +75,86 @@
     "estacao1": "Do Rei do Baião às vozes do século XXI",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "",
+    "estacao3": "",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
-    "id": "sala-7",
+    "id": "sala-7-11",
     "nome": "Sala 07",
     "estacao1": "Linha do Tempo das figuras planas",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "Sala 11",
+    "estacao3": "Tabuleiro Humano",
+    "resumo3": "",
+    "estacao4": "Mitos e Lendas",
+    "resumo4": ""
   },
   {
-    "id": "sala-8",
+    "id": "sala-8-12",
     "nome": "Sala 08",
     "estacao1": "",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "Sala 12",
+    "estacao3": "A arte de contar o mundo",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
-    "id": "sala-9",
+    "id": "sala-9-13",
     "nome": "Sala 09",
     "estacao1": "",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "Sala 13",
+    "estacao3": "Um Brasil, muitas Culturas",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
-    "id": "sala-10",
+    "id": "sala-10-14",
     "nome": "Sala 10",
     "estacao1": "Inglês ao Redor do Mundo",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "Sala 14",
+    "estacao3": "Horta Solidária",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
-  {
-    "id": "sala-11",
-    "nome": "Sala 11",
-    "estacao1": "Tabuleiro Humano",
-    "resumo1": "",
-    "estacao2": "Mitos e Lendas",
-    "resumo2": ""
-  },
-  {
-    "id": "sala-12",
-    "nome": "Sala 12",
-    "estacao1": "A arte de contar o mundo",
-    "resumo1": "",
-    "estacao2": "",
-    "resumo2": ""
-  },
-  {
-    "id": "sala-13",
-    "nome": "Sala 13",
-    "estacao1": "Um Brasil, muitas Culturas",
-    "resumo1": "",
-    "estacao2": "",
-    "resumo2": ""
-  },
-  {
-    "id": "sala-14",
-    "nome": "Sala 14",
-    "estacao1": "Horta Solidária",
-    "resumo1": "",
-    "estacao2": "",
-    "resumo2": ""
-  },
+  
+
+  
   {
     "id": "sala-15",
     "nome": "Sala 15",
     "estacao1": "Da História às Arquibancadas",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "",
+    "estacao3": "",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   },
   {
     "id": "sala-16",
@@ -125,6 +162,12 @@
     "estacao1": "Planetário",
     "resumo1": "",
     "estacao2": "",
-    "resumo2": ""
+    "resumo2": "",
+    
+    "nome2": "",
+    "estacao3": "",
+    "resumo3": "",
+    "estacao4": "",
+    "resumo4": ""
   }
 ]

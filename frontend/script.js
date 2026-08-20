@@ -18,12 +18,20 @@ async function carregarMapa() {
   });
 }
 
-function mostrarInfo(sala) {
+function mostrarInfo(sala) { 
+
   document.getElementById('painel-titulo').textContent = sala.nome;
   document.getElementById('painel-estacao1').textContent = sala.estacao1;
   document.getElementById('painel-resumo1').textContent = sala.resumo1;
   document.getElementById('painel-estacao2').textContent = sala.estacao2;
   document.getElementById('painel-resumo2').textContent = sala.resumo2;
+
+  document.getElementById('painel-titulo2').textContent = sala.nome2;
+  document.getElementById('painel-estacao3').textContent = sala.estacao3;
+  document.getElementById('painel-resumo3').textContent = sala.resumo3;
+  document.getElementById('painel-estacao4').textContent = sala.estacao4;
+  document.getElementById('painel-resumo4').textContent = sala.resumo4;
+
   document.getElementById('painel-info').classList.remove('escondido');
 }
 
