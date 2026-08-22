@@ -6,7 +6,7 @@ async function carregarSalas() {
 }
 
 async function carregarMapa() {
-  const resposta = await fetch('planta.svg');
+  const resposta = await fetch('plantaCyberMap.svg');
   document.getElementById('mapa-container').innerHTML = await resposta.text();
 
   salas.forEach(sala => {
