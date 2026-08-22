@@ -2,7 +2,7 @@
   {
     "id": "sala-1",
     "nome": "Sala 01",
-    "estacao1": "A Robótica do SESI",
+    "estacao1": "Robótica",
     "resumo1": "",
     "estacao2": "",
     "resumo2": "",
@@ -36,9 +36,9 @@
     "resumo2": "",
     
     "nome2": "",
-    "estacao3": "",
+    "estacao3": "Arte que Denuncia, Arte que Transforma.",
     "resumo3": "",
-    "estacao4": "",
+    "estacao4": "Entre Paredes e Preconceitos",
     "resumo4": ""
   },
   {
@@ -100,7 +100,7 @@
   {
     "id": "sala-8-12",
     "nome": "Sala 08",
-    "estacao1": "",
+    "estacao1": "Extinção e Evolução",
     "resumo1": "",
     "estacao2": "",
     "resumo2": "",
@@ -114,7 +114,7 @@
   {
     "id": "sala-9-13",
     "nome": "Sala 09",
-    "estacao1": "",
+    "estacao1": "Paulista em transformação",
     "resumo1": "",
     "estacao2": "",
     "resumo2": "",
